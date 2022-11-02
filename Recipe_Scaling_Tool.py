@@ -1,4 +1,2 @@
-class RecipeScalingTool:
-    def __init__(self):
-        self.recipe = {}
-        self.scale_factor = 1
+def add_ingredient(self, name, quantity):
+        self.recipe[name] = quantity
